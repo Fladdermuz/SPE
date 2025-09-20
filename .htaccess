@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule ^about-us/?$ /about-us.html [R=302,L]
+RewriteRule ^biotbottles/?$ /biotbottles.html [R=302,L]
+RewriteRule ^zerobottles/?$ /zerobottles.html [R=302,L]
